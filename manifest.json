@@ -2,7 +2,7 @@
   "name": "개인 투자 대시보드 앱",
   "short_name": "투자 대시보드",
   "description": "AI 기반 개인 포트폴리오 관리 및 리밸런싱 앱",
-  "start_url": "index.html",
+  "start_url": "https://p0ppp41679-ship-it.github.io/stock-app/",
   "display": "standalone",
   "background_color": "#1e293b",
   "theme_color": "#1e293b",
